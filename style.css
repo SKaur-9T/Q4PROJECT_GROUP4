@@ -253,6 +253,14 @@ h3 {
 	font-size: 50px !important;
 }
 
+h5 {
+	font-family: Montserrat;
+	font-weight: 300 !important;
+	text-align: center !important;
+	color: white !important;
+	background-color: rgb(62, 75, 97);
+}
+
 p {
 	font-family: Montserrat;
 	font-weight: 300;
